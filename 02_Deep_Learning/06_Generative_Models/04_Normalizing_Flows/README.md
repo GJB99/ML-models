@@ -1,0 +1,3 @@
+# Normalizing Flows
+
+Normalizing Flows are a class of generative models that produce complex probability distributions by applying a sequence of invertible and differentiable transformations to a simple base distribution (e.g., a Gaussian). The key advantage of this approach is that it allows for exact likelihood computation and efficient sampling, which is often intractable for other types of generative models. 

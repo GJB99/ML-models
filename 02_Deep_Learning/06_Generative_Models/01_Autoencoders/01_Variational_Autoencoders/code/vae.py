@@ -1,0 +1,1 @@
+# Placeholder for Variational Autoencoder (VAE) implementation 

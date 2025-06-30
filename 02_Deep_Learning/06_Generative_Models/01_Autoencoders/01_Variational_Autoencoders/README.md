@@ -1,0 +1,3 @@
+# Variational Autoencoders (VAEs)
+
+A Variational Autoencoder (VAE) provides a probabilistic approach to describing an observation in latent space. Thus, instead of building an encoder which outputs a single value to describe each latent state attribute, the encoder of a VAE outputs a probability distribution for each latent attribute. This allows for the generation of new data by sampling from the latent space. 

@@ -1,0 +1,3 @@
+# Neural Radiance Fields (NeRF)
+
+Neural Radiance Fields (NeRF) are a groundbreaking method for synthesizing novel views of complex 3D scenes. A NeRF model represents a scene as a continuous function—a fully-connected neural network—that maps 5D coordinates (3D location and 2D viewing direction) to a volume density and view-dependent emitted radiance. By querying this function along camera rays and using classical volume rendering techniques, NeRF can render photorealistic, novel views of a scene from a sparse set of input images. 

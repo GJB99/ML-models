@@ -1,0 +1,1 @@
+# Placeholder for Neural Radiance Fields (NeRF) implementation 

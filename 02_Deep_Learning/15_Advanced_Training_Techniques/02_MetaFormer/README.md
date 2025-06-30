@@ -1,0 +1,3 @@
+# MetaFormer Architecture
+
+MetaFormer is a framework that abstracts the general architecture of modern deep learning models like Transformers. It proposes that the success of these models comes not from the specific token mixer they use (e.g., self-attention), but from the overall architectural design. By separating the token mixing component from the rest of the architecture, MetaFormer allows for the creation of new, efficient models by simply swapping in different token mixers (like pooling or convolutions) into a Transformer-like structure. 

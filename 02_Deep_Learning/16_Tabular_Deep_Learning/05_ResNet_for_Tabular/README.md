@@ -1,0 +1,3 @@
+# ResNet for Tabular Data
+
+This refers to the adaptation of Residual Network (ResNet) architectures, which were originally developed for computer vision, for use with tabular data. By using techniques like embedding layers for categorical features and carefully structured fully-connected layers, ResNet-like models can serve as a very strong baseline for tabular deep learning, often matching the performance of more complex models. 

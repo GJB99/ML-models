@@ -1,0 +1,3 @@
+# Neural Tangent Kernel (NTK)
+
+The Neural Tangent Kernel (NTK) is a theoretical framework that describes the behavior of infinitely wide neural networks during training with gradient descent. It shows that in this limit, the complex dynamics of a neural network simplify to a kernel method, where the kernel (the NTK) remains constant during training. This provides a powerful tool for analyzing the training dynamics, generalization, and optimization of deep neural networks, bridging the gap between deep learning and classical kernel methods. 

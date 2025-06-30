@@ -1,0 +1,3 @@
+# Mamba
+
+Mamba is a new generation of sequence model based on a selective State Space Model (SSM) architecture. It achieves linear-time complexity and has demonstrated state-of-the-art performance on a variety of long-sequence tasks, such as language modeling. Its key innovation is a selection mechanism that allows the model to selectively propagate or forget information along the sequence, enabling it to handle dependencies over very long contexts efficiently. 

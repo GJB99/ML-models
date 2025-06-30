@@ -1,0 +1,3 @@
+# Neural Architecture Search (NAS)
+
+Neural Architecture Search is a field of automated machine learning (AutoML) that automates the design of artificial neural networks. NAS methods use a search strategy to explore a space of possible network architectures. The goal is to find an architecture that achieves the best performance on a particular task. This automates a process that was traditionally done by human experts through trial and error. 

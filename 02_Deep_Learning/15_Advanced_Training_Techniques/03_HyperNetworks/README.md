@@ -1,0 +1,3 @@
+# HyperNetworks
+
+HyperNetworks are a type of neural network that generates the weights for another, main neural network. Instead of learning the weights of the main network directly through backpropagation, a smaller hypernetwork learns to output them. This approach allows for dynamic and adaptive architectures, parameter sharing across tasks, and improved parameter efficiency. It is particularly useful in continual learning and few-shot learning scenarios. 

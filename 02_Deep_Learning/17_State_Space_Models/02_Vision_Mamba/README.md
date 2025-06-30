@@ -1,0 +1,3 @@
+# Vision Mamba (Vim)
+
+Vision Mamba (Vim) adapts the Mamba state space model for computer vision tasks. It treats an image as a sequence of flattened patches and uses a bidirectional Mamba architecture to model relationships between them. Vim achieves performance competitive with Vision Transformers (ViTs) while being significantly more efficient in terms of both computation and memory, especially for high-resolution images. 

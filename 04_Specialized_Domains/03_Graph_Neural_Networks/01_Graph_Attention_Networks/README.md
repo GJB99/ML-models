@@ -1,0 +1,3 @@
+# Graph Attention Networks (GAT)
+
+Graph Attention Networks are a type of Graph Neural Network (GNN) that leverage masked self-attentional layers to address the shortcomings of prior methods based on graph convolutions. By stacking layers in which nodes are able to attend over their neighborhoods' features, GATs enable the implicit specification of different weights to different nodes in a neighborhood, without requiring any kind of costly matrix operation or depending on knowing the graph structure upfront. 

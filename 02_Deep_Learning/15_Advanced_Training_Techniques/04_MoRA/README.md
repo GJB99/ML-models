@@ -1,0 +1,3 @@
+# Mixture of Ranks (MoRA)
+
+Mixture of Ranks (MoRA) is an advanced fine-tuning technique that builds upon the principles of LoRA (Low-Rank Adaptation). While LoRA adapts a pre-trained model by adding a single low-rank matrix, MoRA decomposes this update into a mixture of several rank-1 matrices. This allows for more fine-grained control and can be seen as applying the Mixture of Experts (MoE) concept at the rank level, improving parameter efficiency and reducing interference between different aspects of the fine-tuning task. 

@@ -1,0 +1,3 @@
+# ConvNeXt
+
+ConvNeXt is a pure convolutional neural network (CNN) that is designed by modernizing a standard ResNet with architectural principles borrowed from Vision Transformers (ViTs). By systematically adapting components like the stem, depthwise convolutions, and activation functions, ConvNeXt models achieve the performance of ViTs while maintaining the simplicity and efficiency of standard CNNs, demonstrating that the architectural design choices are as important as the underlying building blocks. 

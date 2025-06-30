@@ -1,0 +1,3 @@
+# Gaussian Processes
+
+Gaussian Processes (GPs) are a powerful non-parametric method for supervised learning, particularly for regression problems. GPs work by defining a prior over functions. Given training data, this prior is updated to a posterior distribution over functions, which can then be used for prediction. A key advantage of GPs is their ability to provide uncertainty estimates along with their predictions. 

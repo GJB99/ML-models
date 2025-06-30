@@ -1,0 +1,3 @@
+# Neural Ordinary Differential Equations (Neural ODEs)
+
+Neural Ordinary Differential Equations (Neural ODEs) are a continuous-depth neural network architecture. Instead of specifying a discrete sequence of hidden layers, a Neural ODE parameterizes the continuous dynamics of hidden states using an ordinary differential equation (ODE) specified by a neural network. This provides a memory-efficient alternative to ResNets and allows for adaptive computation and modeling of continuous-time dynamical systems. 

@@ -1,0 +1,3 @@
+# Extra Trees (Extremely Randomized Trees)
+
+Extra Trees is an ensemble learning method that fits a number of randomized decision trees (a "forest") on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. It is similar to a Random Forest but introduces more randomness in how splits are chosen, which can sometimes lead to better performance and faster training. 

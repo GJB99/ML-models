@@ -1,0 +1,1 @@
+# This file will contain code examples for using multimodal models like CLIP. 

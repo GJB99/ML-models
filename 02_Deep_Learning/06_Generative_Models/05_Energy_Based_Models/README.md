@@ -1,0 +1,3 @@
+# Energy-Based Models (EBMs)
+
+Energy-Based Models offer a flexible framework for modeling probability distributions by associating a scalar energy value with each configuration of the variables of interest. Unlike models that must explicitly define a normalized probability distribution, EBMs learn an energy function that assigns low energy to correct or likely configurations and high energy to incorrect ones. This allows for greater flexibility in model architecture and can handle complex dependencies. 

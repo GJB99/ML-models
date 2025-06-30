@@ -1,0 +1,3 @@
+# Capsule Networks (CapsNets)
+
+Capsule Networks are a type of neural network that aims to overcome some of the limitations of Convolutional Neural Networks (CNNs). Instead of individual neurons, CapsNets use groups of neurons called "capsules" that output a vector representing various properties (like pose, texture, etc.) of a specific feature. By using a dynamic routing mechanism, CapsNets can model hierarchical relationships between parts and wholes more effectively than the pooling layers in CNNs. 
