@@ -8,4 +8,6 @@ This section covers the fundamental concepts that are the building blocks of any
 -   **Feature Engineering**: The art of creating meaningful features from raw data.
 -   **Evaluation Metrics**: How to measure the performance of your models.
 -   **Data Structures and Algorithms (DSA)**: Core concepts for efficient problem-solving.
--   **Sorting Methods**: Fundamental algorithms for ordering data. 
+-   **Sorting Methods**: Fundamental algorithms for ordering data.
+-   **Fast Fourier Transform**: Efficient algorithms for frequency domain analysis.
+-   **Statistics**: Comprehensive overview of statistical concepts from descriptive to inferential statistics. 

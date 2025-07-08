@@ -30,4 +30,12 @@ Stacking is an ensemble learning technique that uses a meta-model to learn how t
 
 ### Blending
 
-Blending is a simpler variant of stacking. Instead of using k-fold cross-validation, it uses a single holdout validation set to generate the predictions for training the meta-model. It's faster but can be more prone to overfitting. 
+Blending is a simpler variant of stacking. Instead of using k-fold cross-validation, it uses a single holdout validation set to generate the predictions for training the meta-model. It's faster but can be more prone to overfitting.
+
+## Covered Methods
+
+-   [**Stacking**](./01_Stacking/): Meta-learning approach to combine multiple base models
+-   [**Voting Classifiers**](./02_Voting_Classifiers/): Simple averaging or voting of model predictions
+-   [**NODE**](./03_NODE/): Neural Oblivious Decision Ensembles
+-   [**LinearBoost**](./04_LinearBoost/): Linear boosting techniques
+-   [**EBM**](./05_EBM/): **TabArena #9** - Explainable Boosting Machine combining performance with interpretability (Elo: 1300) 

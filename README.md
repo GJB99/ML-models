@@ -8,19 +8,25 @@ Whether you're a beginner taking your first steps or an experienced practitioner
 
 The repository is organized into several key areas, each building upon the last:
 
--   **`00_Foundations`**: Covers the essential prerequisites for any machine learning project, including data preprocessing, feature engineering, and evaluation metrics.
--   **`01_Machine_Learning`**: Explores traditional machine learning algorithms for supervised, unsupervised, and reinforcement learning tasks.
+-   **`00_Foundations`**: Covers the essential prerequisites for any machine learning project, including data preprocessing, feature engineering, evaluation metrics, and **statistics fundamentals**.
+-   **`01_Machine_Learning`**: Explores traditional machine learning algorithms for supervised, unsupervised, and reinforcement learning tasks. Includes a comprehensive **ML Algorithms Cheatsheet** for quick reference.
 -   **`02_Deep_Learning`**: Dives into the world of neural networks, from basic concepts to advanced architectures like CNNs and RNNs. This section also covers key components like activation and loss functions.
 -   **`03_Large_Language_Models`**: Focuses on the architecture and application of modern LLMs, including Transformers, RAG, and AI Agents.
 -   **`04_Specialized_Domains`**: Explores specialized applications of machine learning, such as recommendation systems, time series analysis, and graph-based learning.
 -   **`05_ML_In_Production`**: Covers the practical aspects of deploying and maintaining machine learning models, including MLOps, model compression, and AutoML.
 -   **`06_Explainable_AI_XAI`**: Dives into the crucial field of model interpretability, with techniques to understand and trust model decisions.
--   **`applications`**: Showcases real-world applications of the models and concepts discussed in this repository.
+-   **`applications`**: Showcases real-world applications of the models and concepts discussed in this repository, including **benchmarks** like TabArena.
 -   **`best_practices`**: Provides a collection of best practices and tips for building robust and effective machine learning models.
 
 ## 🚀 Getting Started
 
 To get started, simply browse the directories above. Each topic has its own `README.md` with detailed explanations and a `code` directory with practical implementations.
+
+### 📋 Quick Reference
+
+- **[Statistics Fundamentals](00_Foundations/07_Statistics/README.md)**: Complete overview of how statistical concepts connect from descriptive to inferential statistics
+- **[ML Algorithms Cheatsheet](01_Machine_Learning/ML_Algorithms_Cheatsheet.md)**: Comprehensive guide to algorithm selection with pros/cons, use cases, and real-world examples  
+- **[TabArena Benchmark](applications/benchmarks/TabArena.md)**: Performance rankings and insights from the leading tabular ML benchmark
 
 We hope you find this repository useful on your data science journey!
 
